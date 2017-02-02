@@ -4,7 +4,7 @@ Solves sigil puzzles found in The Talos Principle and Sigils of Elohim.
 It fills a rectangle of given size with a set of tetrominos (tetris pieces) using an optimized multithread brute force algorithm.
  
 ## Download
-[Download from my site](http://downloads.adolfintel.com/geth.php?r=tps-pcbin) (Requires [Java](http://java.com))
+[Download from my site](http://downloads.fdossena.com/geth.php?r=tps-pcbin) (Requires [Java](http://java.com))
  
 ## Compatibility
 Multiplatform, Java SE 7 or newer
@@ -13,8 +13,8 @@ Multiplatform, Java SE 7 or newer
 Import the project into Netbeans
 
 ## Screenshots
-![Screenshot](http://adolfintel.com/talos/pc1.png)
-![Screenshot](http://adolfintel.com/talos/pc2.png)
+![Screenshot](http://fdossena.com/talos/pc1.png)
+![Screenshot](http://fdossena.com/talos/pc2.png)
 
 ## License
 Copyright (C) 2015 Federico Dossena
